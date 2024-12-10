@@ -4,19 +4,26 @@ body {
   background-color: #f0f0f0;
   color: #ffffff;
   background-color: rgb(75, 192, 246);
-  background-image: url('/static/images/background.png');
+  background-image: url('/static/images/prop.png');
 }
 h1 {
   text-align-last: center;
   color: #ffffff;
   font-size: 60px; 
   font-family: Georgia, serif, italic;
+  -webkit-text-stroke-color: black;
+  -webkit-text-stroke-width: 2px;
+
 }
 h2 {
 text-align-last: center;
 color: #ffffff;
 font-size: 40px;
-align-items: center
+align-items: center;
+-webkit-text-stroke-color: black;
+-webkit-text-stroke-width: 1px;
+
+
 
 }
 i {
@@ -34,3 +41,24 @@ i {
 
 
 }
+h3 {
+  text-align-last: left;
+  color: #ffffff;
+  font-size: 40px; 
+  font-family: Georgia, serif, italic;
+  -webkit-text-stroke-color: black;
+  -webkit-text-stroke-width: 1px;
+}
+h4{
+  text-align-last: left;
+  color: #ffffff;
+  font-size: 30px; 
+  font-family: Georgia, serif, italic;
+  -webkit-text-stroke-color: black;
+  -webkit-text-stroke-width: 1px;
+
+
+
+
+}
+
