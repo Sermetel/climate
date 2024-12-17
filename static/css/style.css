@@ -61,4 +61,14 @@ h4{
 
 
 }
+a {
+  background-color: #04AA6D;
+  border: none;
+  color: white;
+  padding: 30px 64px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 32px;
+  text-align-last: center;
+}
 
